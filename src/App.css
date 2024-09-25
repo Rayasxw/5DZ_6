@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #7F7FD5;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #240b36;
+  color: white;
+  border: none;
+  margin-left: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+  margin: 10px 0;
+}
